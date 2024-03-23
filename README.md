@@ -1,5 +1,6 @@
-### Hi there 👋
+![README banner](assets/github-read-me-banner.png)
 
+I am a software developer and I need to update this at some point.
 <!--
 **craig-oates/craig-oates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
