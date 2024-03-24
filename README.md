@@ -19,12 +19,12 @@ them more accessible to others. You can find these on my websites at:
 I'm currently completing the CoGrammar Software Fundamentals Bootcamp. The main
 language used throughout the course is Python.
 
-With being self-taught, I'm using this Bootcamp to roundout my knowledge,
+With being self-taught, I'm using this Bootcamp to round out my knowledge,
 regarding Software Development and build out my network. Speaking of which… If
 you would like to get in touch and talk about working together, use the links in
 the [Contact](#contact-me) section below.
 
-if you would like to know more about CoGrammar and the Bootcamps they offer at,
+If you would like to know more about CoGrammar and the Bootcamps they offer at,
 use the following link:
 
 - [CoGrammar Bootcamps](https://skills.cogrammar.com/)
@@ -33,9 +33,8 @@ use the following link:
 
 Below is a *non-exhaustive* list of technologies I've used to varying degree
 over the years. As a general rule, I tend to stick to Linux (Debian-based) and
-FLOSS tools, for personal stuff. Having said that, I'm comfortable with working
-with whatever technologies the project requires, when working with and for
-others.
+FLOSS tools, for personal stuff. Having said that, I'm comfortable working with
+whatever technologies the project requires, when working with and for others.
 
 | Technology            | Notes                                                                                                                            | Project of Interest                                                                         |
 |:----------------------|:---------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|
@@ -68,7 +67,7 @@ During my uni. days, I would use the Adobe stuff almost exclusively (Photoshop,
 Illustrator, InDesign etc.), but I tend to stick to FLOSS programs these
 days. So, programs like Inkscape, Krita and FreeCAD tend to be my first choice
 these days. The same applies to Microsoft Office. I was brought up on that
-tech. stack, but I now lean towards Libre Office or anything which works with
+tech. stack, but I now lean towards LibreOffice or anything which works with
 open standard file formats.
 
 # Contact Me
