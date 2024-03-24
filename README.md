@@ -7,8 +7,9 @@ for web and dabbled with Windows desktop (WPF and UWP).
 
 Alongside programming, I make art, write blogs and dabble with 3D printing and
 CAD modelling. I, also, host my own Gitea instance alongside my website to
-develop my software projects. I use GitHub to mirror my repositories, making
-them more accessible to others. You can find these on my websites at:
+develop my software projects. The intended use for this GitHub to mirror my
+repositories, making them more accessible to others. You can find these on my 
+websites at:
 
 - [craigoates.net](https://www.craigoates.net)
 - [craigoates.net/software](https://www.craigoates.net/software) (Software Projects)
@@ -20,11 +21,11 @@ I'm currently completing the CoGrammar Software Fundamentals Bootcamp. The main
 language used throughout the course is Python.
 
 With being self-taught, I'm using this Bootcamp to round out my knowledge,
-regarding Software Development and build out my network. Speaking of which… If
+regarding Software Development, and build out my network. Speaking of which… If
 you would like to get in touch and talk about working together, use the links in
 the [Contact](#contact-me) section below.
 
-If you would like to know more about CoGrammar and the Bootcamps they offer at,
+If you would like to know more about CoGrammar and the Bootcamps they offer,
 use the following link:
 
 - [CoGrammar Bootcamps](https://skills.cogrammar.com/)
@@ -63,10 +64,10 @@ software development process. One of the benefits of this is I am reasonably
 good at translating between the two teams (software developers and GUI
 designers/illustrators etc.) and providing support in each discipline.
 
-During my uni. days, I would use the Adobe stuff almost exclusively (Photoshop,
+During my uni. days, I used the Adobe stuff almost exclusively (Photoshop,
 Illustrator, InDesign etc.), but I tend to stick to FLOSS programs these
-days. So, programs like Inkscape, Krita and FreeCAD tend to be my first choice
-these days. The same applies to Microsoft Office. I was brought up on that
+days. So, programs like Inkscape, Krita and FreeCAD tend to be my first choice.
+The same applies to Microsoft Office. I was brought up on that
 tech. stack, but I now lean towards LibreOffice or anything which works with
 open standard file formats.
 
